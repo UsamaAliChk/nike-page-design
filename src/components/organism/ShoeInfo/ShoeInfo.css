@@ -1,21 +1,21 @@
 .catagory {
   font-family: "Trade Gothic LT Std", sans-serif;
-  font-size: 24px;
+  font-size: 16px;
   text-transform: uppercase;
   margin: 0px;
   margin-bottom: 10px;
 }
 .shoe-name {
   font-family: "Trade Gothic LT Std", sans-serif;
-  font-size: 72px;
+  font-size: 60px;
   margin: 0px;
   z-index: 100;
   text-transform: uppercase;
 }
 .shoe-info {
   font-family: "Helvetica Neue", sans-serif;
-  font-size: 20px;
-  width: 450px;
+  font-size: 16px;
+  width: 400px;
   color: #131212;
   opacity: 0.5;
 }
@@ -26,8 +26,8 @@
 }
 .Video {
   cursor: pointer;
-  height: 40px;
-  width: 40px;
+  height: 30px;
+  width: 30px;
   border-radius: 50%;
   background-color: rgba(19, 18, 18, 0.05);
   display: flex;
@@ -37,5 +37,5 @@
 
 .play-video {
   font-family: "Trade Gothic LT Std", sans-serif;
-  font-size: 20px;
+  font-size: 16px;
 }

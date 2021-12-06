@@ -13,7 +13,7 @@
   border-radius: 50%;
   background-color: black;
   position: absolute;
-  top: 500px;
+  top: 480px;
   left: 50%;
   transform: translateX(-50%);
   z-index: 4;
@@ -21,8 +21,8 @@
 
 .rotation {
   border: 1px solid #ababab;
-  height: 200px;
-  width: 70%;
+  height: 180px;
+  width: 80%;
   border-radius: 50%;
   position: absolute;
   top: 320px;
@@ -34,7 +34,7 @@
 .shoe-image {
   position: absolute;
   z-index: -1;
-  transform: translate(-68%);
+  transform: translate(-63%);
 }
 .show-case {
   margin-top: 50px;

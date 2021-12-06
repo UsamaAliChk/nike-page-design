@@ -4,7 +4,7 @@
 .nav-link a {
   color: black;
   font-family: "Trade Gothic LT Std", sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
   text-decoration: none;
@@ -18,12 +18,12 @@
   list-style: none;
 }
 .large a {
-  font-size: 24px;
+  font-size: 20px;
   text-transform: uppercase;
 }
 
 .logo a {
-  font-size: 34px;
+  font-size: 28px;
   font-family: "Source Sans Pro", sans-serif;
   letter-spacing: 0.2rem;
   text-decoration: none;
