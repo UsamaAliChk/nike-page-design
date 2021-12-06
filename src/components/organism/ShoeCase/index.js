@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./shoecase.css";
-import { getDustImages } from "../../../helper/GetImgs";
 import { Image } from "../../atoms";
 import { useSelector } from "react-redux";
 
